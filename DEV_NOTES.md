@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Reviewed open issues, added labels
+
+## 2026-05-06
+- Wrote notes on upcoming feature design
